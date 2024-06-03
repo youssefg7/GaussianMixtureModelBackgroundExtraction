@@ -1,4 +1,4 @@
-# A Genetic algorithm for Constant Area Coding (CAC) optimization.
+# Gaussian Mixture Model (GMM) for Foreground Masking.
 
 This project is the major task submitted to Dr. Alaa Hamdy as part of the Selected Topics in Data Science Course: Faculty of Engineering ICHEP, Ain Shams University.
 
