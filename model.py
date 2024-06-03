@@ -1,8 +1,5 @@
 import numpy as np
-import matplotlib.pyplot as plt
-import cv2
 from scipy.stats import multivariate_normal
-import os
 
 class GMM():
     def __init__(self,K_numOfGauss=5,BG_thresh=0.6, alpha=0.01, height=240, width=320, colorChannels=3):
